@@ -1,0 +1,100 @@
+.container {
+  background: #84d2cd;
+  border: 1px solid #84d2cd;
+  border-radius: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 100%;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.container#hot {
+  background: red;
+  border: 1px solid #84d2cd;
+  border-radius: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 100%;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.submit {
+  background: #1ab2a8;
+  color: white;
+  border: 1px solid #1ab2a8;
+  border-radius: 4px;
+}
+form {
+  display: block;
+  text-align: center;
+}
+.emoji {
+  font-size: 50px;
+  text-align: center;
+}
+
+h1 {
+  text-align: left;
+  margin: 20px 0;
+  font-weight: bold;
+  line-height: 1;
+}
+.update {
+  display: block;
+  text-align: left;
+  padding: 0;
+}
+h2 {
+  font-size: 60px;
+  font-weight: bold;
+}
+.card {
+  text-align: center;
+  background-color: #1ab2a8;
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 0px;
+}
+.card-text {
+  padding: 10px;
+}
+
+button {
+  display: block;
+  text-align: left;
+  border: 1px solid #1ab2a8;
+  border-radius: 10px;
+  background: white;
+  color: #1ab2a8;
+}
+
+.c-f {
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+li::first-letter {
+  text-transform: capitalize;
+}
+
+.active {
+  color: white;
+  cursor: default;
+}
+
+.active:hover {
+  text-decoration: none;
+}
+
+.App {
+  margin: 20px;
+}
